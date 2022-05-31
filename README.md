@@ -1,4 +1,4 @@
-# rmq-example
+# rmq-examples
 
 파이썬으로 작성된 RabbitMQ 예제 코드
 
